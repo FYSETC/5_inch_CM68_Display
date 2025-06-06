@@ -7,3 +7,4 @@ Added compatibility with VORON 0.2 display stand.Just print the printout and it 
  Installation requires 4 pcs FHCS M3x6 mm screws，4 pcs Self-tapping screws M2x10 mm.
 
  ![VORON_0.2_5 Inch_Display_Mount_1.png](https://github.com/FYSETC/5_inch_CM68_Display/blob/main/STL/VORON%200.2/images/VORON_0.2_5%20Inch_Display_Mount_1.png?raw=true)
+ ![VORON_0.2_5 Inch_Display_Mount_2.png](https://github.com/FYSETC/5_inch_CM68_Display/blob/main/STL/VORON%200.2/images/VORON_0.2_5%20Inch_Display_Mount_2.png?raw=true)
